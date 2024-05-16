@@ -122,6 +122,6 @@ Sau khi đăng nhập vào sẽ hiện flag (mật khẩu này là mật khẩu 
 
 ### Để triển khai ứng dụng, các bước sau:
 
-Tải file docker-compose.yml
-Mở terminal và trỏ đến vị trí thư mục chứa file docker-compose đã tải và lên chạy command: docker-compose up -d
-Rồi sau đó truy cập đến 'http://localhost:5000/' để xem app
+- Tải file docker-compose.yml
+- Mở terminal và trỏ đến vị trí thư mục chứa file docker-compose đã tải và lên chạy command: docker-compose up -d
+- Rồi sau đó truy cập đến 'http://localhost:5000/' để xem app
