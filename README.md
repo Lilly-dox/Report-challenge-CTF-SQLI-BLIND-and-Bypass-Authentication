@@ -103,7 +103,7 @@ ví dụ payload test sqli :
 
 - Database :
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/93d6bce8-89f7-4721-8719-68437055e335/defcb66c-3b28-43e9-b373-57d65b2cbf88/Untitled.png)
+![image](https://github.com/Lilly-dox/Report-challenge-CTF-SQLI-BLIND-and-Bypass-Authentication/assets/130746941/c336ede2-f6b3-4934-ab05-8a5227fa1f1c)
 
 |admin
 
