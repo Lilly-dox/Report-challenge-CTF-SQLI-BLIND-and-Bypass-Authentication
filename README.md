@@ -1,6 +1,11 @@
 # Report-challenge-CTF-SQLI-BLIND-and-Bypass-Authentication
 # My Flask App
 
+### Để triển khai ứng dụng, các bước sau:
+
+- Tải file docker-compose.yml
+- Mở terminal và trỏ đến vị trí thư mục chứa file docker-compose đã tải và lên chạy command: docker-compose up -d
+- Rồi sau đó truy cập đến 'http://localhost:5000/' để xem app
 ### Mô tả ngắn về challenge :
 
 Challenge bao gồm 3 chức năng chính là login, resetpassword, search.
