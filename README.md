@@ -66,7 +66,7 @@ cur = conn.cursor()
         return render_template("index.html", data="Invalid Login/Password !!")
 ```
 
-Chức năng login nhận input username , password từ người dùng . Username có regex  ^[a-zA-Z0-9]+@gmail\.com\.vn$ 
+Chức năng login nhận input username , password từ người dùng . Username có regex ``` ^[a-zA-Z0-9]+@gmail\.com\.vn$ ```
 
 . Còn phần input password của người dùng thì sẽ được hash rồi so sánh với hashed_password đã    lưu trong database .
 
